@@ -1,0 +1,2 @@
+# patch-fix-game
+Read contents of the game store to get to the functional store, the player must kill a couple of dozen orcs. Also, remember that in the way to the installation folder of the game you should not have cyrillic characters. Runes can be created from fragments obtained after the execution of orcs. The army of orcs opening the list you can see the presence of orcs, their status, glory and time until the next call to battle.
